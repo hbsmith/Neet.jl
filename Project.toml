@@ -1,6 +1,7 @@
 name = "Neet"
 uuid = "919622b2-e939-11e8-2e4c-8d05674d84e9"
-authors = ["Douglas G. Moore <doug@dglmoore.com>"]
+authors = ["Douglas G. Moore <doug@dglmoore.com>",
+           "Harrison Smith <salmoncannon@gmail.com>"]
 version = "0.1.0"
 
 [extras]
