@@ -6,4 +6,7 @@ include("macros.jl")
 # provides the Abstract interfaces
 include("core.jl")
 
+# provides the state space types
+include("statespace.jl")
+
 end
