@@ -1,7 +1,6 @@
 module Neet
 
-export square
-
-square(x) = x * x
+# provides the @unimpl macro
+include("macros.jl")
 
 end
